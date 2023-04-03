@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-Black.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-BlackItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-Bold.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-Light.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-ExtraLight.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-ExtraBold.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-Italic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-ExtraBoldItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-BoldItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-ExtraLightItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-Medium.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-LightItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-Regular.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-Thin.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-SemiBoldItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-ThinItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-MediumItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-SemiBold.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-ThinItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/projects/custom header/css/Raleway-Thin.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Raleway-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-Black.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-BlackItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-Bold.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-Medium.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-Italic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-MediumItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-LightItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-Regular.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-Light.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/projects/custom header/css/Roboto-BoldItalic.woff2') format('woff2'),
+        url('../css/projects/custom header/css/Roboto-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
